@@ -1,0 +1,3 @@
+/home/akie/workspace/json-demo/build/CMakeFiles/main.dir
+/home/akie/workspace/json-demo/build/CMakeFiles/edit_cache.dir
+/home/akie/workspace/json-demo/build/CMakeFiles/rebuild_cache.dir
